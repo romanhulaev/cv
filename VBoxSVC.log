@@ -1,0 +1,59 @@
+00:00:00.029417 main     VirtualBox COM Server 6.1.20 r143896 win.amd64 (Apr 20 2021 05:23:38) release log
+00:00:00.029432 main     Log opened 2021-09-05T10:58:57.371157600Z
+00:00:00.029435 main     Build Type: release
+00:00:00.029528 main     OS Product: Windows 10
+00:00:00.029532 main     OS Release: 10.0.19043
+00:00:00.029535 main     OS Service Pack: 
+00:00:00.153749 main     DMI Product Name: Inspiron 7720
+00:00:00.201298 main     DMI Product Version: 
+00:00:00.201327 main     Firmware type: BIOS
+00:00:00.201361 main     Host RAM: 3953MB (3.8GB) total, 980MB available
+00:00:00.201376 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.201378 main     Process ID: 8708
+00:00:00.201380 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.513890          VirtualBox: object creation starts
+00:00:00.515200          Home directory: 'C:\Users\roman\.VirtualBox'
+00:00:00.515617          Installed Drivers:
+00:00:00.594644            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.20.43896)
+00:00:00.619092          USBLibInit: USB Service not found
+00:00:01.490293          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:01.506026          HostDnsMonitor: initializing
+00:00:01.530924          HostDnsMonitor: updating information
+00:00:01.531183          HostDnsMonitor: old information
+00:00:01.531186            no server entries
+00:00:01.531188            no domain set
+00:00:01.531189            no search string entries
+00:00:01.531191          HostDnsMonitor: new information
+00:00:01.531192            server 1: 192.168.0.1
+00:00:01.531195            no domain set
+00:00:01.531196            no search string entries
+00:00:01.965906          VD: VDInit finished with VINF_SUCCESS
+00:00:01.985580          VirtualBox: object created
+00:00:03.973483          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'boinc_ef09125e9103853c'}, preserve=false aResultDetail=0
+00:00:04.500253          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Could not find file for the medium 'C:\ProgramData\BOINC\slots\1\vm_image.vdi' (VERR_FILE_NOT_FOUND)}, preserve=false aResultDetail=-102
+00:00:05.618290          Saving settings file "C:\Users\roman\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:06.115158          Saving settings file "C:\Users\roman\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:06.622284          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:06.663995          Saving settings file "C:\Users\roman\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.140532          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:07.432941          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:07.721578          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:08.011687          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:08.301603          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:08.594227          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:08.876209          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:09.151049          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:09.438610          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:09.729102          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:10.014776          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:10.302832          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:10.589141          Saving settings file "C:\ProgramData\BOINC\slots\1\boinc_ef09125e9103853c\boinc_ef09125e9103853c.vbox" with version "1.16-windows"
+00:00:17.675819          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:17.874760          Saving settings file "C:\Users\roman\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:18.166819          Saving settings file "C:\Users\roman\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:18.458664          Saving settings file "C:\Users\roman\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:23.525490 main     VirtualBox: object deletion starts
+00:00:23.527057 main     HostDnsMonitor: shutting down ...
+00:00:23.527268 main     HostDnsMonitor: shut down
+00:00:23.530265 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:23.530781 main     VirtualBox: object deleted
